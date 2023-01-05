@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rccc7
 - 👀 I’m interested in Software development, ReactJS, Node.js, NextJS, javaScript, graphQL, firebase
-<!--- - 🌱 I’m currently learning new technologies such as...--->
 - 💞️ I’m looking to collaborate on javaScript & ReactJS projects
 - 📫 How to reach me:
   - 📧 rcristhiancc@gmail.com
