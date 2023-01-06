@@ -11,7 +11,7 @@ Throughout my professional career, I've worked with different programming langua
 <p/>Since 2017, I started to get more interested in web development and more specifically in Front-end so I learned JavaScript, and intensified my knowledge in HTML & CSS. Furthermore. It was in 2020 that I came across ReactJS, which took my passion for coding to another level in such a way that I specialized in React functional component development and implemented a variety of ReactJS apps making use of the best and most popular frameworks and libraries for React such as NextJS, Material UI, TailwindCSS, Redux and so on among others. 
 <p/>Regarding SQL databases I am proficient with Microsoft SQL Server, Transact-SQL, MySQL, and PostgreSQL as well as stored procedures, functions, and triggers implementation in each DBMS. 
 <p/>When it comes to NoSQL databases I have experience with Firebase-Firestore. 
-I also had the opportunity to work with GraphQL to interact with PostgreSQL databases. 
+I have also worked in projects with GraphQL to interact with PostgreSQL databases. 
 <p/>Finally, I am willing to learn and do research about new frameworks, libraries, or technologies when needed. Additionally, I always try to do my best of myself in the projects in which I participate, not giving up in the face of obstacles or problems but rather looking for the best solution.
 <!---
 rccc7/rccc7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
